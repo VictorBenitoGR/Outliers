@@ -33,7 +33,9 @@ packages <- c(
   # //"readtext", #       Para la lectura de los txt
   "radarchart", #     Adición a ggplot2
   "knitr", #          Generación de markdowns
-  "syuzhet" #         Análisis de sentimientos
+  "syuzhet", #        Análisis de sentimientos
+  "topicmodels", #    Modelos de tópicos
+  "slam" #            Análisis de texto
   # ! añade "," al final de la última línea si vas a añadir más paquetes
 )
 
