@@ -3,7 +3,7 @@
 # * Pronósticos e integración con LLM
 # * Licencia: GPL-3.0
 
-from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer # https://github.com/brunneis/vader-multi
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
