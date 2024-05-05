@@ -1,3 +1,7 @@
+# * Datathon 2024 - Hey Banco - Outliers
+# * Limpieza de datos
+# * Licencia: GPL-3.0
+
 # *** Cargar el dataset -------------------------------------------------------
 
 # Importar el dataset con codificación UTF-8
