@@ -1,3 +1,7 @@
+# * Datathon 2024 - Hey Banco - Outliers
+# * Latent Dirichlet Allocation
+# * Licencia: GPL-3.0
+
 # *** Vector inicial ----------------------------------------------------------
 
 # Solicitar al usuario que ingrese el mes y el año
